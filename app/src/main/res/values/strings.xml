@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirstSessionTask</string>
+    <string name="shopping">Shopping</string>
+    <string name="popular_products">Popular Products</string>
+    <string name="sort_by">Sort by</string>
+    <string name="add">Add</string>
+    <string name="cost">$20.39</string>
+    <string name="cost2">$60.89</string>
+</resources>
